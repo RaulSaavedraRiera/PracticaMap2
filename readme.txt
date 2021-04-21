@@ -1,1 +1,1 @@
-#Resumen de la practica
+#Resumen de la práctica
