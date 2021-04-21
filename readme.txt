@@ -1,1 +1,1 @@
-https://github.com/RaulSaavedraRiera/PracticaMap2.git
+#Resumen de la practica
