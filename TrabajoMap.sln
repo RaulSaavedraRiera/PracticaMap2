@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parte1", "Parte1\Parte1.csproj", "{4CCB8A8A-DC6C-4F73-908B-2D2759B0DEE7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Parte1", "Parte1\Parte1.csproj", "{4CCB8A8A-DC6C-4F73-908B-2D2759B0DEE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colores", "Colores\Colores.csproj", "{EFB5C2A7-A183-43E5-996B-06311AE9D86A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{4CCB8A8A-DC6C-4F73-908B-2D2759B0DEE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4CCB8A8A-DC6C-4F73-908B-2D2759B0DEE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4CCB8A8A-DC6C-4F73-908B-2D2759B0DEE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFB5C2A7-A183-43E5-996B-06311AE9D86A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFB5C2A7-A183-43E5-996B-06311AE9D86A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFB5C2A7-A183-43E5-996B-06311AE9D86A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFB5C2A7-A183-43E5-996B-06311AE9D86A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
